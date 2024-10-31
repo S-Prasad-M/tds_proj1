@@ -1,4 +1,4 @@
-# TDS Project -1 : GitHub User and Repository Data (Delhi:100)
+# TDS Project-1 : GitHub User and Repository Data (Delhi:100)
 
 - Data scraping was done using the GitHub REST API to fetch user and repository details in Delhi with over 100 followers.
 - It was surprising to find that a significant portion of repositories in Delhi have no licenses, potentially limiting reuse.
